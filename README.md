@@ -78,6 +78,7 @@ You are free to copy the following codes below in the given modules and method r
 ### 📌 Here's the full documentation for the [Library Management System in Django](https://itsourcecode.com/free-projects/python-projects/library-management-system-project-in-django-with-source-code/)
 
 You can also read about the other programming languages used in the Library Management System and its UML diagrams.
+
 ---
 
 #### Library Management System Project in Different Programming Languages
